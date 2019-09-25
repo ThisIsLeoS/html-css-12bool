@@ -16,6 +16,7 @@
 
 #first-row,
 #second-row,
-#third-row  {
+#third-row,
+#fourth-row  {
   background-color: pink;
 }
