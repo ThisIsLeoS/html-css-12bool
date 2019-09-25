@@ -1,0 +1,29 @@
+/* reset rules */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* rules used (or usable) in different parts of the page */
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  border: 1px solid black;
+  padding: 20px 0;
+  text-align: center;
+}
+
+#first-row {
+  background-color: pink;
+}
