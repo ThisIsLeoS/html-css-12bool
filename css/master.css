@@ -7,13 +7,14 @@
 
 /* rules used (or usable) in different parts of the page */
 
-.col-1-inside-box {
+.col-inside-box {
   width: 100%;
   border: 1px solid black;
   padding: 20px 0;
   text-align: center;
 }
 
-#first-row {
+#first-row,
+#second-row  {
   background-color: pink;
 }
