@@ -15,6 +15,7 @@
 }
 
 #first-row,
-#second-row  {
+#second-row,
+#third-row  {
   background-color: pink;
 }
